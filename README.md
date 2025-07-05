@@ -1,3 +1,7 @@
 # OpenGL과 3D블렌더로 작업한 간단한 미니 게임입니다.
 
 # 용량관계로 사운드, 오브젝트 및 텍스처 파일은 업로드 하지 않겠습니다.
+
+<video src="https://github.com/chldnjsdn200/Game/raw/main/Project_media.mp4" controls width="500">
+  브라우저가 video 태그를 지원하지 않습니다.
+</video>
